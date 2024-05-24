@@ -1,0 +1,15 @@
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.AssemblyInfoInputs.cache
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.AssemblyInfo.cs
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\shum\bin\Debug\net7.0\shum.exe
+C:\Users\323\Desktop\shum\bin\Debug\net7.0\shum.deps.json
+C:\Users\323\Desktop\shum\bin\Debug\net7.0\shum.runtimeconfig.json
+C:\Users\323\Desktop\shum\bin\Debug\net7.0\shum.dll
+C:\Users\323\Desktop\shum\bin\Debug\net7.0\shum.pdb
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.dll
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\refint\shum.dll
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.pdb
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\shum.genruntimeconfig.cache
+C:\Users\323\Desktop\shum\obj\Debug\net7.0\ref\shum.dll
